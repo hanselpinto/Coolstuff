@@ -1,0 +1,116 @@
+.banner img{
+    width: 100%;
+    height: 50px;
+}
+.banner h1{
+width: 100%;
+text-align:center;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+font-family:helvetica;
+background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+#brushes{
+font-size: 32px;
+font-weight: bold;
+color: white;
+font-family:helvetica;
+background-color: mediumspringgreen;
+}
+#frames{
+font-size: 32px;
+font-weight: bold;
+color: white;
+font-family:helvetica;
+background-color: lightcoral;
+}
+
+#paint{
+font-size: 32px;
+font-weight: bold;
+color: white;
+font-family:helvetica;
+background-color: skyblue;
+}
+
+h3{
+font-size: 20px;
+font-weight: bold;
+font-family:helvetica;
+ ;
+}
+
+p{
+font-size: 16px;
+font-weight: medium;
+font-family:inter;
+display: inline-block;
+position:
+}
+#special{
+    display:inline-block;
+    color:blue;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:helvetica;
+}
+
+.box{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    height:300px;
+    border: 2px solid #dddddd;
+    margin-left: 24px;
+    border-radius: 8px;
+    background-color:white;
+    }    
+
+.box h5{
+        font-weight:700;
+        font-size: 18px;
+        color:#212021;
+        margin-left: 12px;
+        margin-bottom:4px;
+    }
+    .box p{
+        font-weight:400;
+        font-size: 16px;
+        margin-bottom: 32px;
+        margin-left: 12px;
+        margin-top:8px;
+        color:#606060;
+    }
+
+.box a{
+
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #04AA6D;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+      
+}
+
+
+.box a{
+    box-shadow: -4px 4px 3px rgba(43, 69, 84, 0.4   );
+}
+
+.box a:hover{
+background-color: #7d63e6;
+cursor: pointer;
+}
+
+.box a:active{
+background-color: #211749;
+cursor: pointer;
+color: white;
+box-shadow: none;
+
+
+}
